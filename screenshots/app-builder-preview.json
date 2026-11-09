@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Stillwake Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 2439,
+      "bodyTextHash": "950e215c145d87246f83802d872358001a6d826e8c174e0a7fa7c3a9a507b7aa",
+      "bodyTextPrefix": "stillwake IMAGINE / MOTION WORKSPACE Create Your renders 0 DAILY",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Stillwake Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 2178,
+      "bodyTextHash": "88a494fc2d7da50c04310b6b24e33fb4ed02b2acebb749e4812ec9fe83d41c1f",
+      "bodyTextPrefix": "stillwake IMAGINE / MOTION Create Your renders Workspace / New g",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
